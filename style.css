@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 40%;
+
+}
+
+.calculator {
+    height: max-content;
+    width: max-content;
+    background-color: red;
+    border-radius: 10px;
+    padding: 2px;
+
+
+}
+
+#calculator {
+    color: white;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+td {
+    font-size: 25px;
+    font-weight: bold;
+
+
+}
+
+input[type=button] {
+    color: red;
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    border-color: grey;
+}
+
+input[type=text] {
+    width: 230px;
+    height: 40px;
+    border-radius: 5px;
+    border-color: grey;
+    background-color: white;
+}
